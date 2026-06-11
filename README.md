@@ -6,7 +6,7 @@ PokeMarket.ai goes beyond a chatbot: it *takes actions* on a real database. Ask 
 
 Built for the **Building Agents for Real-World Challenges** hackathon — **MongoDB partner track**.
 
-🎥 **Demo video:** _<add your video link here>_
+🎥 **Demo video:** _<add https://www.youtube.com/watch?v=ARV7us5YneE >_
 
 <!-- Add a screenshot: drop screenshot.png in the repo and it shows below -->
 ![PokeMarket.ai screenshot](screenshot.png)
